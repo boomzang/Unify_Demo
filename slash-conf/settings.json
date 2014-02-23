@@ -1,8 +1,8 @@
 {
   "author":      "Chris Jacobs",
-  "description": "Demo Bootstrap Template",
-  "icon":        "bz-conf/icon.png",
+  "description": "Bootstrap demo.",
+  "icon":        "slash-conf/icon.png",
   "name":        "Unify Bootstrap Demo",
   "url":         "unify/",
-  "repo_url":    "boomzang/Unify_Demo"
+  "repo_url":    "slashnet/unify-demo"
 }
